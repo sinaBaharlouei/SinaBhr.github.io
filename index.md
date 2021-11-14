@@ -1,6 +1,6 @@
 <div class='container2'>
         <div>
-            <img src='https://raw.githubusercontent.com/sinaBaharlouei/website/master/SinSin.jpg' class='iconDetails'>
+            <img src='https://raw.githubusercontent.com/sinaBaharlouei/website/master/SinSin.jpg' class='iconDetails' width="30%">
         </div>  
     <div style='margin-left:60px;'>
     <h4>Facebook</h4>
