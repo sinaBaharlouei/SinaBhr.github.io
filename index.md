@@ -1,6 +1,6 @@
 <p float="left">
   <img src="https://raw.githubusercontent.com/sinaBaharlouei/website/master/SinSin.jpg" alt="drawing" width="300" />
-  <b> Ph.D Student </b>
+  <b style="margin-left: 50px;"> Ph.D Student </b>
   <i>Daniel J. Epstein Department of Industrial and Systems Engineering </i>
 </p>
 
