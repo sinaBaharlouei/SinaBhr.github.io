@@ -1,7 +1,4 @@
-
-### Large image
-
-![Branching](./SinSin.jpg)
+![Branching](https://sinabaharlouei.github.io/website/)
 
 ---
 layout: default
