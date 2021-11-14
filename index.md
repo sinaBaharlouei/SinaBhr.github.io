@@ -1,4 +1,3 @@
-                           |  
 :-------------------------:|:-------------------------:
 <img src="https://raw.githubusercontent.com/sinaBaharlouei/website/master/SinSin.jpg" alt="drawing" width="300" />  |  Salam
 
