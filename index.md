@@ -1,4 +1,4 @@
-<img src="https://github.com/sinaBaharlouei/website/blob/master/SinSin.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/sinaBaharlouei/website/SinSin.jpg" alt="drawing" width="200"/>
 ---
 layout: default
 ---
