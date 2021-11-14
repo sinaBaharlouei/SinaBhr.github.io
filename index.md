@@ -1,6 +1,6 @@
 <div>
 <img src="https://raw.githubusercontent.com/sinaBaharlouei/website/master/SinSin.jpg" alt="drawing" width="200"/>
-<p style = "position:relative; left:80px; top:2px; background-color:yellow;"> Ph.D Student <\p>
+<p style = "position:relative; left:80px; top:2px; background-color:yellow;"> Ph.D Student </p>
 Department of Industrial and Systems Engineering
 </div>
 
