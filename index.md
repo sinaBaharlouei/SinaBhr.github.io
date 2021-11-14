@@ -1,31 +1,22 @@
 <img src="https://raw.githubusercontent.com/sinaBaharlouei/website/master/Sina2.png" alt="drawing" />
 
 
-:-------------------------:|:-------------------------:
-<img src="https://raw.githubusercontent.com/sinaBaharlouei/website/master/SinSin.jpg" alt="drawing" width="30%" />  |  <b style="margin-left: -20%; position: Relative, top: -300px"> Ph.D Student </b>
+# Biography
 
+My name is Sina Baharlouei and I am a Ph.D. student at the University of Southern California (USC), studying Industrial and Systems Engineering. I am honored to have Professor Meisam Razaviyayn as my supervisor. Broadly speaking, my research interests encompass large-scale optimization theory and its applications in general machine learning models and in particular machine learning for fairness, health, and medicine. I received my bachelor’s degree in Computer Engineering at the Amirkabir University of Technology. 
 
-<p float="left">
-  <b style="margin-left: 50px; position: Relative, top: -300px"> Ph.D Student </b>
-  <img src="https://raw.githubusercontent.com/sinaBaharlouei/website/master/SinSin.jpg" alt="drawing" width="300" />
-  <i>Daniel J. Epstein Department of Industrial and Systems Engineering </i>
-</p>
+[My Curriculum Vitae](https://link-url-here.org)
 
----
-layout: default
----
+[Link to my Semantic Scholar Page](https://www.semanticscholar.org/author/Sina-Baharlouei/148009027)
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+[My Github Page](https://github.com/sinaBaharlouei)
 
-[Link to another page](./another-page.html).
+[Twitter Page](https://twitter.com/BaharloueiSina)
 
-There should be whitespace between paragraphs.
+[Google Scholar](https://scholar.google.com/citations?user=a-yq6EAAAAAJ&hl=en)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[LinkedIn](https://www.linkedin.com/in/sina-baharlouei-00b4ba97/)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
