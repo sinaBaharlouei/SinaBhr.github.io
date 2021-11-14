@@ -1,5 +1,5 @@
 :-------------------------:|:-------------------------:
-<img src="https://raw.githubusercontent.com/sinaBaharlouei/website/master/SinSin.jpg" alt="drawing" width="300" />  |  Salam
+<img src="https://raw.githubusercontent.com/sinaBaharlouei/website/master/SinSin.jpg" alt="drawing" width="30%" />  |  <b style="margin-left: -20%; position: Relative, top: -300px"> Ph.D Student </b>
 
 
 <p float="left">
