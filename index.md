@@ -1,7 +1,7 @@
 
 ### Large image
 
-![Branching](./SinSin.png)
+![Branching](./SinSin.jpg)
 
 ---
 layout: default
