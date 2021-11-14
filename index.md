@@ -1,4 +1,9 @@
+<div>
 <img src="https://raw.githubusercontent.com/sinaBaharlouei/website/master/SinSin.jpg" alt="drawing" width="200"/>
+Ph.D Student
+Department of Industrial and Systems Engineering
+</div>
+
 ---
 layout: default
 ---
