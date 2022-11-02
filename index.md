@@ -23,7 +23,7 @@ My name is Sina Baharlouei and I am a Ph.D. student at the University of Souther
 * **Sina Baharlouei**, Maher Nouiehed, Ahmad Beirami, and Meisam Razaviyayn. "Rényi Fair Inference", International Conference on Learning Representations (ICLR), 2020.
 [[Paper]](https://arxiv.org/pdf/1906.12005.pdf) [[Code]](https://github.com/optimization-for-data-driven-science/Renyi-Fair-Inference)
 
-* Andrew Lowy*, **Sina Baharlouei***, Rakesh Pavan, Meisam Razaviyayn, and Ahmad Beirami. "A Stochastic Optimization Framework for Fair Risk Minimization", Transaction on Machine Learning Research (TMLR), 2022. [[Paper]](https://arxiv.org/pdf/2102.12586.pdf) [[Code]](https://github.com/optimization-for-data-driven-science/FERMI)
+* Andrew Lowy*, **Sina Baharlouei** *, Rakesh Pavan, Meisam Razaviyayn, and Ahmad Beirami. "A Stochastic Optimization Framework for Fair Risk Minimization", Transaction on Machine Learning Research (TMLR), 2022. [[Paper]](https://arxiv.org/pdf/2102.12586.pdf) [[Code]](https://github.com/optimization-for-data-driven-science/FERMI)
 
 * **Sina Baharlouei**, Kelechi Ogudu, Sze-chuan Suen, and Meisam Razaviyayn. "RIFLE: Robust Inference from Low Order Marginals". Under Review in Journal of Machine Learning Research. [[Paper]](https://arxiv.org/pdf/2109.00644v2.pdf) [[Code]](https://github.com/optimization-for-data-driven-science/RIFLE) 
 
