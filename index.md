@@ -9,10 +9,14 @@ My name is Sina Baharlouei and I am a Ph.D. student at the University of Souther
 
 [Semantic Scholar](https://www.semanticscholar.org/author/Sina-Baharlouei/148009027)
 
-[Github Page](https://github.com/sinaBaharlouei)
-
-[Twitter Page](https://twitter.com/BaharloueiSina)
-
 [Google Scholar](https://scholar.google.com/citations?user=a-yq6EAAAAAJ&hl=en)
 
+[Github](https://github.com/sinaBaharlouei)
+
+[Twitter](https://twitter.com/BaharloueiSina)
+
 [LinkedIn](https://www.linkedin.com/in/sina-baharlouei-00b4ba97/)
+
+# Publications:
+
+* **Sina Baharlouei**, Maher Nouiehed, Ahmad Beirami, and Meisam Razaviyayn. "Rényi Fair Inference", International Conference on Learning Representations, 2020.
