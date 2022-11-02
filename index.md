@@ -22,15 +22,15 @@ My name is Sina Baharlouei and I am a Ph.D. student at the University of Souther
 * **Sina Baharlouei**, Maher Nouiehed, Ahmad Beirami, and Meisam Razaviyayn. "Rényi Fair Inference", International Conference on Learning Representations (ICLR), 2020.
 [[Paper]](https://arxiv.org/pdf/1906.12005.pdf) [[Code]](https://github.com/optimization-for-data-driven-science/Renyi-Fair-Inference)
 
-* Andrew Lowy*, **Sina Baharlouei** *, Rakesh Pavan, Meisam Razaviyayn, and Ahmad Beirami. "A Stochastic Optimization Framework for Fair Risk Minimization", Transaction on Machine Learning Research (TMLR), 2022. [[Paper]](https://arxiv.org/pdf/2102.12586.pdf), [[Code]](https://github.com/optimization-for-data-driven-science/FERMI)
+* Andrew Lowy*, **Sina Baharlouei** *, Rakesh Pavan, Meisam Razaviyayn, and Ahmad Beirami. "A Stochastic Optimization Framework for Fair Risk Minimization", Transaction on Machine Learning Research (TMLR), 2022. [[Paper]](https://arxiv.org/pdf/2102.12586.pdf) [[Code]](https://github.com/optimization-for-data-driven-science/FERMI)
 
-* **Sina Baharlouei**, Kelechi Ogudu, Sze-chuan Suen, and Meisam Razaviyayn. "RIFLE: Robust Inference from Low Order Marginals". Under Review in Journal of Machine Learning Research (JMLR). [[Paper]](https://arxiv.org/pdf/2109.00644v2.pdf), [[Code]](https://github.com/optimization-for-data-driven-science/RIFLE) 
+* **Sina Baharlouei**, Kelechi Ogudu, Sze-chuan Suen, and Meisam Razaviyayn. "RIFLE: Robust Inference from Low Order Marginals". Under Review in Journal of Machine Learning Research (JMLR). [[Paper]](https://arxiv.org/pdf/2109.00644v2.pdf) [[Code]](https://github.com/optimization-for-data-driven-science/RIFLE) 
 
 
 * **Sina Baharlouei**, Fatemeh Sheikholeslami, Meisam Razaviyayn, and Zico Kolter: Improving adversarial robustness via joint classification and multiple explicit detection classes. ICML Workshop on Formal Verification of Machine Learning (2022). [[Paper]](http://download.huanzhang.com/events/wfvml2022/papers/24_CameraReady_Camera%20Ready.pdf)
 
 
-* **Sina Baharlouei**, Meisam Razaviyayn, Elizabeth Tseng, and David Tse. "I-CONVEX: Fast and Accurate de Novo Transcriptome Recovery from Long Reads". Data Science for Life Sciences Workshop ECML-PKDD (2022). [[Paper]](https://www.biorxiv.org/content/10.1101/2020.09.28.317594v1.full.pdf), [[Code]](https://github.com/sinaBaharlouei/I-CONVEX)
+* **Sina Baharlouei**, Meisam Razaviyayn, Elizabeth Tseng, and David Tse. "I-CONVEX: Fast and Accurate de Novo Transcriptome Recovery from Long Reads". Data Science for Life Sciences Workshop ECML-PKDD (2022). [[Paper]](https://www.biorxiv.org/content/10.1101/2020.09.28.317594v1.full.pdf) [[Code]](https://github.com/sinaBaharlouei/I-CONVEX)
 
 
 * Maziar Sanjabi, **Sina Baharlouei**, Meisam Razaviyayn and Jason D. Lee. "When Does Non-Orthogonal Tensor Decomposition Have No Spurious Local Minima?". Submitted to
