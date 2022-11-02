@@ -19,4 +19,10 @@ My name is Sina Baharlouei and I am a Ph.D. student at the University of Souther
 
 # Publications:
 
-* **Sina Baharlouei**, Maher Nouiehed, Ahmad Beirami, and Meisam Razaviyayn. "Rényi Fair Inference", International Conference on Learning Representations, 2020.
+* **Sina Baharlouei**, Maher Nouiehed, Ahmad Beirami, and Meisam Razaviyayn. "Rényi Fair Inference", International Conference on Learning Representations (ICLR), 2020.
+* Andrew Lowy*, **Sina Baharlouei** *, Rakesh Pavan, Meisam Razaviyayn, and Ahmad Beirami. "A Stochastic Optimization Framework for Fair Risk Minimization", Transaction on Machine Learning Research (TMLR), 2022.
+* **Sina Baharlouei**, Kelechi Ogudu, Sze-chuan Suen, and Meisam Razaviyayn. "RIFLE: Robust Inference from Low Order Marginals". Under Review in Journal of Machine Learning Research (JMLR).
+* **Sina Baharlouei**, Fatemeh Sheikholeslami, Meisam Razaviyayn, and Zico Kolter: Improving adversarial robustness via joint classification and multiple explicit detection classes. ICML Workshop on Formal Verification of Machine Learning (2022).
+* **Sina Baharlouei**, Meisam Razaviyayn, Elizabeth Tseng, and David Tse. "I-CONVEX: Fast and Accurate de Novo Transcriptome Recovery from Long Reads". Data Science for Life Sciences Workshop ECML-PKDD (2022).
+* Maziar Sanjabi, **Sina Baharlouei**, Meisam Razaviyayn and Jason D. Lee. "When Does Non-Orthogonal Tensor Decomposition Have No Spurious Local Minima?". Submitted to
+Siam Journal on Mathematics of Data Science.
