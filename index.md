@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sinaBaharlouei/website/master/Sina2.png" alt="drawing" />
+<img src="https://raw.githubusercontent.com/sinaBaharlouei/website/master/myImage.png" alt="drawing" />
 
 
 # Biography
