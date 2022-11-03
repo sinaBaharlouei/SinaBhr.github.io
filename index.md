@@ -6,7 +6,7 @@
 
 My name is Sina Baharlouei and I am a Ph.D. student at the University of Southern California (USC), studying Industrial and Systems Engineering. I am honored to have Professor [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) as my supervisor. Broadly speaking, my research interests encompass large-scale optimization theory and its applications in general machine learning models and in particular machine learning for Trustworthy AI (Fair and Robust Machine Learning).
 
-[CV](https://github.com/sinaBaharlouei/website/raw/master/CV_Final.pdf)
+[CV](https://github.com/sinaBaharlouei/website/raw/master/CV_Nov_2022.pdf)
 
 [Semantic Scholar](https://www.semanticscholar.org/author/Sina-Baharlouei/148009027)
 
