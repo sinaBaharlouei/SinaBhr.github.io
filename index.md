@@ -25,10 +25,9 @@ My name is Sina Baharlouei and I am a Ph.D. student at the University of Souther
 
 * Andrew Lowy*, **Sina Baharlouei** *, Rakesh Pavan, Meisam Razaviyayn, and Ahmad Beirami. "A Stochastic Optimization Framework for Fair Risk Minimization", Transaction on Machine Learning Research (TMLR), 2022. [[Paper]](https://arxiv.org/pdf/2102.12586.pdf) [[Code]](https://github.com/optimization-for-data-driven-science/FERMI)
 
+* **Sina Baharlouei**, Fatemeh Sheikholeslami, Meisam Razaviyayn, and Zico Kolter: Improving adversarial robustness via joint classification and multiple explicit detection classes. 26th International Conference on Artificial Intelligence and Statistics AISTATS (2023). [[Paper]](https://arxiv.org/pdf/2210.14410.pdf)
+
 * **Sina Baharlouei**, Kelechi Ogudu, Sze-chuan Suen, and Meisam Razaviyayn. "RIFLE: Robust Inference from Low Order Marginals". Under Review in Journal of Machine Learning Research. [[Paper]](https://arxiv.org/pdf/2109.00644v2.pdf) [[Code]](https://github.com/optimization-for-data-driven-science/RIFLE) 
-
-
-* **Sina Baharlouei**, Fatemeh Sheikholeslami, Meisam Razaviyayn, and Zico Kolter: Improving adversarial robustness via joint classification and multiple explicit detection classes. ICML Workshop on Formal Verification of Machine Learning (2022). [[Paper]](https://arxiv.org/pdf/2210.14410.pdf)
 
 
 * **Sina Baharlouei**, Meisam Razaviyayn, Elizabeth Tseng, and David Tse. "I-CONVEX: Fast and Accurate de Novo Transcriptome Recovery from Long Reads". Data Science for Life Sciences Workshop ECML-PKDD (2022). [[Paper]](https://www.biorxiv.org/content/10.1101/2020.09.28.317594v1.full.pdf) [[Code]](https://github.com/sinaBaharlouei/I-CONVEX)
