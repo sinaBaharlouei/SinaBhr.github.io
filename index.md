@@ -27,7 +27,7 @@ My name is Sina Baharlouei and I am a Ph.D. student at the University of Souther
 
 
 * **Sina Baharlouei**, Kelechi Ogudu, Sze-chuan Suen, and Meisam Razaviyayn. "RIFLE: Robust Inference from Low Order Marginals". Transaction on Machine Learning Research (TMLR), 2023. [[Paper]](https://openreview.net/forum?id=oud7Ny0KQy) [[Code]](https://github.com/optimization-for-data-driven-science/RIFLE)
-* 
+  
 
 * **Sina Baharlouei**, Meisam Razaviyayn, Elizabeth Tseng, and David Tse. "I-CONVEX: Fast and Accurate de Novo Transcriptome Recovery from Long Reads". Data Science for Life Sciences Workshop ECML-PKDD (2022). [[Paper]](https://www.biorxiv.org/content/10.1101/2020.09.28.317594v1.full.pdf) [[Code]](https://github.com/sinaBaharlouei/I-CONVEX)
 
@@ -39,7 +39,7 @@ Siam Journal on Mathematics of Data Science. [[Paper]](https://arxiv.org/pdf/191
 * **Sina Baharlouei**, Shivam Patel, and Meisam Razaviyayn. "f-FERM: A Scalable Framework for Robust Fair Empirical Risk Minimization". Submitted to ICLR 2024. 
 
 
-* Peng Dai, **Sina Baharlouei**, Taojian Tu, Bangyan L. Stiles, Meisam Razaviyayn, Sze-Chuan Suen . "Feature Selection in the Presence of Monotone Batch Effects". Submitted to ICLR 2024.
+* Peng Dai, **Sina Baharlouei**, Taojian Tu, Bangyan L. Stiles, Meisam Razaviyayn, Sze-Chuan Suen . "Feature Selection in the Presence of Monotone Batch Effects". _Accepted in ICML Workshop on Spurious Correlations, Invariance, and Stability, 2023_, [[Paper]](https://openreview.net/pdf?id=pgspyMlru0) [[Code]](https://github.com/DesPeradoGoden/Feature-Selection-in-the-Presence-of-Monotone-Batch-Effects)
 
   
 * **Sina Baharlouei** and Meisam Razaviyayn. "Dr. FERMI: A Stochastic Distributionally Robust Fair Empirical Risk Minimization Framework". Submitted to AISTATS 2024. 
