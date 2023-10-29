@@ -37,7 +37,7 @@ My name is Sina Baharlouei and I am a Ph.D. student at the University of Souther
 
 * Maziar Sanjabi, **Sina Baharlouei**, Meisam Razaviyayn and Jason D. Lee. "When Does Non-Orthogonal Tensor Decomposition Have No Spurious Local Minima?". [[Paper]](https://arxiv.org/pdf/1911.09815.pdf)
 
-# Talks:
+# <ins>Talks</ins>
 * **Session Chair**: "Fair and Robust Machine Learning in the Presence of Distribution Shifts" **INFORMS 2023**, Phoenix, Arizona.
 
 * **Talk**: "Dr. FERMI: A Stochastic Distributionally Robust Fair Empirical Risk Minimization Framework" **INFORMS 2023**, Phoenix, Arizona.
