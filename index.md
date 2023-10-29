@@ -16,7 +16,7 @@ My name is Sina Baharlouei and I am a Ph.D. student at the University of Souther
 
 [LinkedIn](https://www.linkedin.com/in/sina-baharlouei-00b4ba97/)
 
-# Publications:
+# <ins>Publications</ins>
 
 * **Sina Baharlouei**, Shivam Patel, and Meisam Razaviyayn. "f-FERM: A Scalable Framework for Robust Fair Empirical Risk Minimization". _**NeurIPS** workshop on Optimization for Machine Learning_ 2023. 
 
