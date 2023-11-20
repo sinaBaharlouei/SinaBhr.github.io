@@ -4,7 +4,7 @@
 # Biography
 **I am in the 2023/2024 job market.**
 
-My name is Sina Baharlouei and I am a Ph.D. student at the University of Southern California (USC), studying Industrial and Systems Engineering. I am honored to have Professor [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) as my supervisor. My research interests include developing scalable and reliable optimization algorithms for machine learning applications, including **Trustworthy AI** (**Fair** and **Robust** Machine Learning), healthcare, and learning under adversarial and uncertain conditions.
+My name is Sina Baharlouei, and I am a Ph.D. student at the University of Southern California (USC), studying Industrial and Systems Engineering. I am honored to have Professor [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) as my supervisor. My research interests include developing scalable and reliable optimization algorithms for machine learning applications, including **Trustworthy AI** (**Fair** and **Robust** Machine Learning), healthcare, and learning under adversarial and uncertain conditions.
 
 [CV](https://github.com/sinaBaharlouei/website/raw/master/CV.pdf)
 
