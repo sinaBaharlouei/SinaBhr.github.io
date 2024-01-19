@@ -2,9 +2,7 @@
 
 
 # Biography
-**I am in the 2023/2024 job market.**
-
-My name is Sina Baharlouei, and I am a Ph.D. student at the University of Southern California (USC), studying Industrial and Systems Engineering. I am honored to have Professor [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) as my supervisor. My research interests include developing scalable and reliable optimization algorithms for machine learning applications, including **Trustworthy AI** (**Fair** and **Robust** Machine Learning), healthcare, and learning under adversarial and uncertain conditions.
+I am Sina Baharlouei, a Ph.D. candidate studying operations research at the University of Southern California (USC). I am honored to have Professor [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) as my supervisor. My research interests include developing scalable and reliable optimization algorithms for machine learning applications, including **Trustworthy AI** (**Fair** and **Robust** Machine Learning), healthcare, and learning under adversarial and uncertain conditions.
 
 [CV](https://github.com/sinaBaharlouei/website/raw/master/CV.pdf)
 
@@ -18,7 +16,7 @@ My name is Sina Baharlouei, and I am a Ph.D. student at the University of Southe
 
 # <ins>Publications</ins>
 
-* **Sina Baharlouei**, Shivam Patel, and Meisam Razaviyayn. "f-FERM: A Scalable Framework for Robust Fair Empirical Risk Minimization". _**NeurIPS** workshop on Optimization for Machine Learning_ 2023. 
+* **Sina Baharlouei**, Shivam Patel, and Meisam Razaviyayn. "f-FERM: A Scalable Framework for Robust Fair Empirical Risk Minimization". **ICLR 2024**, _**NeurIPS** workshop on Optimization for Machine Learning_ 2023. 
 
 * **Sina Baharlouei** and Meisam Razaviyayn. "Dr. FERMI: A Stochastic Distributionally Robust Fair Empirical Risk Minimization Framework". _**NeurIPS** workshop on Algorithmic Fairness through the Lens of Time_ 2023. 
 
@@ -38,14 +36,14 @@ My name is Sina Baharlouei, and I am a Ph.D. student at the University of Southe
 * Maziar Sanjabi, **Sina Baharlouei**, Meisam Razaviyayn and Jason D. Lee. "When Does Non-Orthogonal Tensor Decomposition Have No Spurious Local Minima?". [[Paper]](https://arxiv.org/pdf/1911.09815.pdf)
 
 # <ins>Talks</ins>
-* **Session Chair**: "Fair and Robust Machine Learning in the Presence of Distribution Shifts" **INFORMS 2023**, Phoenix, Arizona.
+* Session Chair at **INFORMS 2023**: "Fair and Robust Machine Learning in the Presence of Distribution Shifts."
 
-* **Talk**: "Dr. FERMI: A Stochastic Distributionally Robust Fair Empirical Risk Minimization Framework" **INFORMS 2023**, Phoenix, Arizona.
+* Contributed Talk at **INFORMS 2023**: "Dr. FERMI: A Stochastic Distributionally Robust Fair Empirical Risk Minimization Framework."
 
-* **Contributed Talk**: "RIFLE: Robust Inference from Low Order Marginals" _**ICML 2023** Workshop on Duality Principles for Modern Machine Learning_
+* Contributed Talk at _**ICML 2023** Workshop on Duality Principles for Modern Machine Learning_ "RIFLE: Robust Imputation and Inference from Low Order Marginals." 
 
-* **Talk**: "Fair and Robust Machine Learning Through Min-Max Optimization" **Google Research**, Sep 2022.
+* Invited Talk at **Google Research**, Sep 2022: "Fair and Robust Machine Learning Through Min-Max Optimization."
 
-* **Talk**: "A Stochastic Optimization Framework for Fair Risk Minimization" **INFORMS 2022**, Indianapolis, Indiana.
+* Contributed Talk at **INFORMS 2022**,  "A Stochastic Optimization Framework for Fair Risk Minimization."
 
-* **Contributed Talk**: "FERMI: Fair Empirical Risk Minimization via Exponential Rényi Mutual Information" _**ICML 2021** Workshop on Socially Responsible Machine Learning_
+* Contributed Talk at _**ICML 2021** Workshop on Socially Responsible Machine Learning_: "FERMI: Fair Empirical Risk Minimization via Exponential Rényi Mutual Information." 
