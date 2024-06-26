@@ -46,6 +46,6 @@ I am Sina Baharlouei, a Ph.D. candidate studying operations research at the Univ
 
 * Contributed Talk at **INFORMS 2022**,  "A Stochastic Optimization Framework for Fair Risk Minimization."
 
-* Contributed Talk at **ICML 2021** Workshop on Socially Responsible Machine Learning_: "FERMI: Fair Empirical Risk Minimization via Exponential Rényi Mutual Information." 
+* Contributed Talk at **ICML 2021** Workshop on Socially Responsible Machine Learning: "FERMI: Fair Empirical Risk Minimization via Exponential Rényi Mutual Information." 
 
 [](https://github.com/sinaBaharlouei/website/blob/master/google27363fca4ff6707f.html)
