@@ -40,7 +40,7 @@ I am Sina Baharlouei, a Ph.D. candidate studying operations research at the Univ
 
 * Contributed Talk at **INFORMS 2023**: "Dr. FERMI: A Stochastic Distributionally Robust Fair Empirical Risk Minimization Framework."
 
-* Contributed Talk at **ICML 2023** Workshop on Duality Principles for Modern Machine Learning_ "RIFLE: Robust Imputation and Inference from Low Order Marginals." 
+* Contributed Talk at **ICML 2023** Workshop on Duality Principles for Modern Machine Learning: "RIFLE: Robust Imputation and Inference from Low Order Marginals." 
 
 * Invited Talk at **Google Research**, Sep 2022: "Fair and Robust Machine Learning Through Min-Max Optimization."
 
