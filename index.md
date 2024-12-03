@@ -2,7 +2,7 @@
 
 
 # Biography
-My name is Sina Baharlouei. I work as an Applied Scientist in the eBay's Search and Monteization team. I obtained my PhD in operations reserach from University of Southern California, where I was honored to have Professor [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) as my supervisor. My research interests include developing scalable and reliable optimization algorithms for machine learning applications, including **Learning to Rank**, **Recommender Systems**, **Trustworthy AI** (**Fair** and **Robust** Machine Learning), healthcare, and learning under adversarial and uncertain conditions.
+My name is Sina Baharlouei, and I am an Applied Scientist on eBay's Search and Monetization team. I earned my PhD in Operations Research from the University of Southern California, where I had the privilege of working under the supervision of Professor [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/). My research interests focus on developing scalable and reliable optimization algorithms for machine learning applications, including **Learning to Rank**, **Recommender Systems**, **Trustworthy AI** (**Fair** and **Robust** Machine Learning), healthcare, and learning under adversarial and uncertain environments.
 
 [CV](https://github.com/sinaBaharlouei/website/raw/master/CV.pdf)
 
